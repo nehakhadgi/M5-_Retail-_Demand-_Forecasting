@@ -1,0 +1,5 @@
+*.zip
+m5-forecasting-accuracy/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
