@@ -1,7 +1,7 @@
 # M5 Retail Demand Forecasting Dashboard
 
 An interactive, enterprise-grade demand forecasting application utilizing baseline and challenger machine learning models to optimize retail supply chain decisions.
-
+## LIVE DEMO: https://m5-retail-demand-forecastinggit-jkbcakcaokcezb6rpicjib.streamlit.app/
 ## 📊 Project Overview
 This project tackles the **M5 Forecasting Challenge** dataset to predict 28 days of daily unit sales. Our system bridges the gap between statistical accuracy and operational decisions by calculating asymmetric inventory costs.
 
